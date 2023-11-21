@@ -4,8 +4,7 @@ Implement a queue using an array and perform the following operations:<br>
 2. Dequeue: Remove and return the element from the front of the queue.<br>
 3. Peek: Return the element at the front of the queue without removing it.<br>
 4. isEmpty: Check if the queue is empty.<br>
-5. isFull: Check if the queue is full.<br>
-Ensure that your queue has a maximum capacity specified when initializing it.<br><br>
+5. isFull: Check if the queue is full.<br>Ensure that your queue has a maximum capacity specified when initializing it.<br><br>
 
 # EXAMPLE<br>
 For example, given a queue with a capacity of 5, perform the following operations:<br>
@@ -15,5 +14,4 @@ For example, given a queue with a capacity of 5, perform the following operation
 4. Peek at the front element.<br>
 5. Check if the queue is empty.<br>
 6. Check if the queue is full.<br>
-
 Write a program to simulate these operations and display the state of the queue after each operation.
